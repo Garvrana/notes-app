@@ -41,6 +41,10 @@ notes-app/
 - **Database**: MongoDB with Mongoose ODM
 
 
+🙌 Credits
+Created by Garv Rana
+Project for learning full-stack development using the MERN stack fundamentals.
+
 
 ---
 
